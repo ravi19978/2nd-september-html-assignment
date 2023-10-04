@@ -1,0 +1,20 @@
+Q. write a short  note on html tag 
+A. An html tag is enclosed within angle brackets  <content>  that defines the purpose and structure of specific element on a webpage , tags are used to instruct the web browser How to display the content in it ,tags are pairs comes with start tag and end tag 
+EX. <p> this is html</p>
+> In  this <p> is a opening tag and </p> is a closing tag , this is html is a text within the tag
+
+Q.html element
+A. Html element  is opening tag and closing tag and content within the tag combines called element it is a distinct part of the web page content and structure 
+Ex.<P>this is a html program</>
+> In this example <p> is a opening tag 
+> </p> is a closing tag 
+> This is html program is content
+> Above all together becomes p element 
+
+Q. what is doctype declaration in html 
+A. This is instruction placed in the beginning of an html document to specify the version of HTML being used.it helps proper rendering and parsing by web browser, the most common declaration is <!DOCTYPE html> indicates the use of HTML5 And the latest version of html
+
+
+
+
+
